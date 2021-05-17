@@ -9,3 +9,5 @@ To clarify, this is a Minecraft Computer which runs on command blocks.
 
 To use this world, go to File Explorer and on the top of it, click "View" and turn on "Hidden Items".
 Now open C:/ > Users > (Current User) > AppData > Roaming > .minecraft > saves > And paste the world file there.
+
+/trigger setprogram set 1 | To start program.
