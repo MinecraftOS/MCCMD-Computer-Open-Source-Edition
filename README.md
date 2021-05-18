@@ -11,3 +11,5 @@ To use this world, go to File Explorer and on the top of it, click "View" and tu
 Now open C:/ > Users > (Current User) > AppData > Roaming > .minecraft > saves > And paste the world file there.
 
 /trigger setprogram set 1 | To start program.
+
+This uses the newest Minecraft snapshot (5/18/2021) 21w19a.
