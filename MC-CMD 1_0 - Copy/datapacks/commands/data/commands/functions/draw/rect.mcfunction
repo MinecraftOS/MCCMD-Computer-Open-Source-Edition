@@ -1,0 +1,1 @@
+execute as @e[tag=screen] if score @s xPos >= @e[tag=manager,limit=1] rectMinX if score @s xPos <= @e[tag=manager,limit=1] rectMaxX if score @s yPos >= @e[tag=manager,limit=1] rectMinY if score @s yPos <= @e[tag=manager,limit=1] rectMaxY run scoreboard players operation @s color = @e[tag=manager,limit=1] color
